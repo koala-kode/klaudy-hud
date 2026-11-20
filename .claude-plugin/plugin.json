@@ -1,0 +1,11 @@
+{
+  "name": "klaudy-hud",
+  "version": "1.0.0",
+  "description": "A sidebar HUD for Claude Code: context and usage limits with an animated status bot, live subagent and tool-call activity, files touched, MCP tools, and a BTW box for side questions that don't interrupt the main work.",
+  "author": {
+    "name": "koala-kode"
+  },
+  "homepage": "https://github.com/koala-kode/klaudy-hud",
+  "repository": "https://github.com/koala-kode/klaudy-hud",
+  "types": "./types/index.d.ts"
+}

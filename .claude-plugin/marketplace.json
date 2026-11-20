@@ -1,0 +1,13 @@
+{
+  "name": "koala-kode",
+  "owner": {
+    "name": "koala-kode"
+  },
+  "description": "Claude Code mods by koala-kode",
+  "plugins": [
+    {
+      "name": "klaudy-hud",
+      "source": "./"
+    }
+  ]
+}
